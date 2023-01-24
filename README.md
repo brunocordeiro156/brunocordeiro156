@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunocordeiro156
 - 👀 I’m interested in develop things
-- 🌱 I’m currently learning code CSS and PHP
+- 🌱 I’m currently learning code Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Instagram: @br1nolego
 
